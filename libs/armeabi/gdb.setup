@@ -1,0 +1,2 @@
+set solib-search-path /root/eclipse-workspace/SplashScreen/obj/local/armeabi
+directory /root/android-sdks/advanced/android-ndk-r8d/platforms/android-9/arch-arm/usr/include /root/eclipse-workspace/SplashScreen/jni /fastcv /root/android-sdks/advanced/android-ndk-r8d/sources/cxx-stl/system/include /root/eclipse-workspace/SplashScreen/jni/apis/featureDetection /root/eclipse-workspace/SplashScreen/jni/apis/imageProcessing /root/eclipse-workspace/SplashScreen/jni/apis/imageTransformation /utils /root/eclipse-workspace/SplashScreen/jni/utils

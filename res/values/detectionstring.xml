@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cornerDetectorDownSampleArray">
+       <item>1 </item>
+       <item>2 </item>
+       <item>4 </item>
+       <item>8 </item>
+    </string-array>
+    <string-array name="cornerDetectorDownSampleValuesArray">
+       <item>0</item>
+       <item>1</item>
+       <item>2</item>
+       <item>3</item>
+    </string-array>
+ <string-array name="cornerDetectorThresholdArray">
+       <item>5 </item>
+       <item>10 </item>
+       <item>20 </item>
+       <item>40 </item>
+       <item>80 </item>
+    </string-array>
+        <string-array name="cornerDetectorValuesArray">
+       <item>0</item>
+       <item>1</item>
+       <item>2</item>
+       <item>3</item>
+       <item>4</item>
+    </string-array> 
+
+<string-array name="CornerOnOnOffArray">
+       <item>Disable Corner Overlay  </item>
+       <item>Enable Corner Overlay </item>
+     </string-array>
+    <string-array name="CornerOnOffValuesArray">
+       <item>0</item>
+       <item>1</item>
+     </string-array>
+    <string-array name="DetectionArray">
+       <item>CornerFast9u8 </item>
+       <item>CornerHarrisu8 </item>
+       <item>CornerFastInMasku8 </item>
+       <item>CornerHarrisInMasku8 </item>
+       <item>CornerFast9Scoreu8 </item>
+       <item>CornerFast9InMaskScoreu8</item>
+    </string-array>
+<string-array name="DetectionValuesArray">
+       <item>1</item>
+       <item>2</item>
+       <item>3</item>
+       <item>4</item>
+       <item>5</item>
+       <item>6</item>
+    </string-array> 
+</resources>

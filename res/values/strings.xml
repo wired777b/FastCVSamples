@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="activity_Corner">Corner Detection</string>
+    <string name="activity_Filter">Filter</string>
+    <string name="activity_FilterCorr">FilterCorr</string>
+    <string name="activity_Scale">Scale</string>
+    <string name="activity_Warp">Warp</string>
+    <string name="activity_ImgDiff">Image Diff</string>
+    <string name="activity_ImageGradient">Image Gradient</string>
+    <string name="activity_OpticalFlow">LK Optical Flow</string>
+    <string name="app_name">FastCV Demo App</string>
+    <string name="label_text">Type here: </string>
+    <string name="textview01_text">TextView01</string>
+    <string name="startpreview_text">Start</string>
+    <string name="stoppreview_text">Stop</string> 
+    <string name="settings">Settings</string> 
+    <string name="txtAcceleration">Toggle Acceleration</string>
+    <string name="about">About</string> 
+    <string name="versionNumber_text">Version number</string>  
+    <string name="releaseDate_text">Release date</string> 
+    <string name="appName_text">Application name</string> 
+    <string name="appName">FastCV Demo Application</string>
+    <string name="detectionName">Detection Module</string> 
+    <string name="releaseDate">May 2012</string> 
+    <string name="versionNumber">1.0</string> 
+	<string-array name="CameraOnOffArray">
+       <item>Viewfinder On </item>
+       <item>Viewfinder Off </item>
+    </string-array>
+    <string-array name="CameraOnOffValuesArray">
+       <item>0</item>
+       <item>1</item>
+    </string-array>
+	<string-array name="GaussianOnOffArray">
+       <item>Disable Gaussian 3x3 Filter  </item>
+       <item>Enable Gaussian 3x3 Filter </item>
+    </string-array>
+    <string-array name="GaussianOnOffValuesArray">
+       <item>0</item>
+       <item>1</item>
+    </string-array>
+	<string-array name="GaussianOnOffArray2">
+       <item>Disable Gaussian 5x5 Filter  </item>
+       <item>Enable Gaussian 5x5 Filter </item>
+    </string-array>
+    <string-array name="GaussianOnOffValuesArray2">
+       <item>0</item>
+       <item>1</item>
+    </string-array>
+	<string-array name="GaussianOnOffArray3">
+       <item>Disable Gaussian 11x11 Filter  </item>
+       <item>Enable Gaussian 11x11 Filter </item>
+    </string-array>
+    <string-array name="GaussianOnOffValuesArray3">
+       <item>0</item>
+       <item>1</item>
+    </string-array>
+    <string-array name="CannyOnOffArray">
+       <item>Disable Canny Edge Filter  </item>
+       <item>Enable Canny Edge Filter </item>
+    </string-array>
+    <string-array name="CannyOnOffValuesArray">
+       <item>0</item>
+       <item>1</item>
+    </string-array>
+    <string name="activity_Affine">Affine</string>
+    <string name="activity_Rotate">Rotate</string>
+
+</resources>
